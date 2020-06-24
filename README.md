@@ -1,0 +1,1 @@
+# Toshiba_estudio_archlinux
